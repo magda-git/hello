@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>hello</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1-SNAPSHOTs</version>
   <name>hello</name>
   <url>http://maven.apache.org</url>
   
